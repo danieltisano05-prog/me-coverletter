@@ -1,0 +1,26 @@
+.card
+{
+    background-color:rgb(240, 234, 214);
+    margin: 100px;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+
+h1
+{
+    text-align: center;
+}
+
+h2
+{
+    text-align: center;
+}
+
+p
+{
+    background-color: beige;
+    text-align: center;
+    padding: 10px;
+}
